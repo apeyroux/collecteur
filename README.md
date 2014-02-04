@@ -1,5 +1,7 @@
 # Sandbox crawler web
 
+Prends des modules en sources de données puis exporte via modules d'export. Au passage, ajout d'informations à la donnée + config du delta entre chaque crawl ...
+
 ![Alt text](/media/collecteur.png)
 
 ```
