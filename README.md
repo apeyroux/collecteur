@@ -3,9 +3,9 @@
 ```
 cd src
 ghc main.hs -o lbc
-``̀
+```
 
-`̀`
+```
 ja@x220:~/codaz/collecteur/src$ ./lbc "http://www.leboncoin.fr/annonces/offres/ile_de_france/?f=a&th=1&q=IBM"
 Ibm lenono thinkpad r60 - http://www.leboncoin.fr/informatique/615840832.htm?ca=12_s
 Loft 80m2 courbevoie - http://www.leboncoin.fr/ventes_immobilieres/615824446.htm?ca=12_s
