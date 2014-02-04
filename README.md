@@ -1,5 +1,7 @@
 # Sandbox crawler web
 
+![Alt text](/media/collecteur.png)
+
 ```
 cd src
 ghc main.hs -o lbc
