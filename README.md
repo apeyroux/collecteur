@@ -11,7 +11,7 @@ Usage :
 ja@x220:~/codaz/collecteur/src$ ./lbc "http://www.leboncoin.fr/annonces/offres/ile_de_france/?f=a&th=1&q=IBM"
 ```
 
-Qui donne : é
+Qui donne : 
 
 ```
 Ibm lenono thinkpad r60 - http://www.leboncoin.fr/informatique/615840832.htm?ca=12_s
