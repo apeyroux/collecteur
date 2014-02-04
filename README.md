@@ -11,9 +11,9 @@ Usage :
 ja@x220:~/codaz/collecteur/src$ ./lbc "http://www.leboncoin.fr/annonces/offres/ile_de_france/?f=a&th=1&q=IBM"
 ```
 
-Qui donne : 
+Qui donne : é
 
----
+```
 Ibm lenono thinkpad r60 - http://www.leboncoin.fr/informatique/615840832.htm?ca=12_s
 Loft 80m2 courbevoie - http://www.leboncoin.fr/ventes_immobilieres/615824446.htm?ca=12_s
 Pc Ibm T61 Core 2Duo 2G ram wifi DVD 14" propre xp - http://www.leboncoin.fr/informatique/615801775.htm?ca=12_s
@@ -49,4 +49,4 @@ Chargeur secteur adaptateur batterie - http://www.leboncoin.fr/informatique/6067
 Destockage TV LED neuf 55cm 22 Pouces TNT Full HD - http://www.leboncoin.fr/image_son/612861626.htm?ca=12_s
 Batterie pour ibm a20 series a20m 10.8v 4800mah - http://www.leboncoin.fr/informatique/400220863.htm?ca=12_s
 Batterie pour ibm thinkpad r50 r51 10.8v 4800mah - http://www.leboncoin.fr/informatique/400192571.htm?ca=12_s
----
+```
